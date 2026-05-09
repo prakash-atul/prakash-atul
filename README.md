@@ -1,12 +1,14 @@
 # Atul Prakash
 
-> Software Engineer · Usability · Full-Stack · AI
+> I build things — mostly software. Sometimes for fun, often for people who'd rather not click more than once.
 
 Assam, India &nbsp;·&nbsp; [atul.prakash.work@email.com](mailto:atul.prakash.work@email.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prakash-atul) &nbsp;·&nbsp; [GitHub](https://github.com/prakash-atul) &nbsp;·&nbsp; [Portfolio](https://portfolio.wily.in)
 
 ## About
 
-Software Engineer leveraging a background in psychology and sociology to provide unique perspectives on how end-users interact with software. Passionate about developing software with a focus on usability, accessibility, and ease of use. Strengths in creativity, teamwork, and building projects from ideation to execution.
+I like figuring out why software feels hard to use, then building the version that doesn't. My path here was unconventional — psychology and education before code — and that background keeps sneaking into how I think about products.
+
+I care about the small things: the interaction that feels obvious in hindsight, the API that doesn't need a tutorial, the interface a first-time user just *gets*. Currently studying MCA at Tezpur University and building things that occasionally work on the first try.
 
 ## Skills
 
