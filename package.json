@@ -1,0 +1,13 @@
+{
+  "name": "prakash-atul-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && npx serve dist -p 3000"
+  },
+  "dependencies": {
+    "highlight.js": "^11.9.0",
+    "marked": "^13.0.0"
+  }
+}

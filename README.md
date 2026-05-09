@@ -1,102 +1,92 @@
-# Hi, I'm Atul Prakash
+# Atul Prakash
 
-💻 Software Engineer
-📍 Assam, India
+> Software Engineer · Usability · Full-Stack · AI
 
----
+Assam, India &nbsp;·&nbsp; [atul.prakash.work@email.com](mailto:atul.prakash.work@email.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prakash-atul) &nbsp;·&nbsp; [GitHub](https://github.com/prakash-atul) &nbsp;·&nbsp; [Portfolio](https://portfolio.wily.in)
 
-## About Me
+## About
 
-I’m a Software Engineer with a unique background in psychology and sociology, which helps me build software that is not just functional, but intuitive and user-centered.
+Software Engineer leveraging a background in psychology and sociology to provide unique perspectives on how end-users interact with software. Passionate about developing software with a focus on usability, accessibility, and ease of use. Strengths in creativity, teamwork, and building projects from ideation to execution.
 
-I enjoy designing scalable backend systems, building APIs, and creating applications that focus on usability, accessibility, and real-world impact.
+## Skills
 
----
-
-## Tech Stack
-
-**Languages & Core:**
-
-* Python, Java, C/C++
-
-**Backend & Systems:**
-
-* Spring Boot, API Design, REST APIs
-* MySQL, Redis
-* Object-Oriented Design, SOLID Principles
-
-**Frontend:**
-
-* React, Next.js
-
-**AI/ML:**
-
-* TensorFlow, Keras, NumPy
-
-**Tools & Cloud:**
-
-* Git & GitHub
-* AWS (EC2, S3)
-* Nginx
-
----
+**Languages:** `Python` `C/C++` `Java` `JavaScript`  
+**Frameworks:** `TensorFlow` `Keras` `FastAPI` `React` `Next.js` `Spring Boot` `Django REST Framework`  
+**Databases:** `PostgreSQL` `MySQL` `Redis` `Prisma ORM`  
+**Frontend:** `Tailwind CSS` `shadcn/ui`  
+**Cloud & Infra:** `AWS EC2` `AWS S3` `Supabase` `OAuth` `Cloud Storage`  
+**Practices:** `Git` `RESTful API` `UML` `OOP` `SOLID Principles` `System Design` `Database Design`
 
 ## Experience
 
-### Software Development Intern @ VLED, IIT Ropar
+### Software Development Intern — VLED, IIT Ropar
+*January 2026 – March 2026 · Punjab, India*
 
-📅 Jan 2026 – Mar 2026
+Enhanced ViBe, an AI-powered adaptive learning platform.
 
-* Worked on **ViBe**, an AI-powered adaptive learning platform
-* Built AI-based question generation features
-* Reduced API calls by **50%**, improving performance
-* Enhanced UI/UX for better usability and engagement
-
----
+- Contributed to AI-based question generation for adaptive and context-aware learning
+- Reduced API calls by 50% through optimization and redundancy elimination
+- Improved UI/UX, increasing usability and learner satisfaction
 
 ## Projects
 
-### TestApp (Ongoing)
+### Resource Management System
+**Links:** [GitHub](https://github.com/prakash-atul/rms) | [Live](https://rms.wily.in)  
+**Tools:** `OAuth` `Supabase Storage` `Prisma ORM` `PostgreSQL` `Next.js` `shadcn/ui` `Claude Code`
 
-🔗 https://wily.in
-🔗 https://github.com/prakash-atul/test
-
-* Generates tests from past exam questions
-* AI chatbot for mistake analysis
-* Realistic exam simulation with performance insights
-
-**Tech:** Next.js, Spring Boot, MySQL, Redis, AWS
+An app that enables coordinators to collect and manage participant resources through unique session codes. Participants upload files while creators manage sessions, control access, search uploads, and download all resources as a structured ZIP. Eliminates dependency on emails, pendrives, and scattered cloud links.
 
 ---
 
-### NBA Accreditation System
+### TestApp *(Ongoing)*
+**Links:** [GitHub](https://github.com/prakash-atul/test) | [Live](https://wily.in)  
+**Tools:** `Next.js` `Resend` `Prisma` `PostgreSQL` `Redis` `API Design` `OOP` `UML`
 
-🔗 https://nba.wily.in
-🔗 https://github.com/prakash-atul/nba
-
-* Role-based accreditation management system
-* Supports Admin, HOD, Faculty, Staff workflows
-* Efficient document and data handling
-
-**Tech:** React, PHP, MySQL, AWS EC2, S3, Nginx
+Generates tests from past exam questions, enabling customized multi-topic assessments with flexible durations and evidence-based learning techniques. Offers a realistic exam interface, performance insights, and an AI chatbot for understanding mistakes.
 
 ---
+
+### NPTEL Attendance Browser Extension
+**Links:** [GitHub](https://github.com/prakash-atul/attendance) | [Live](https://www.wily.in/attendance)  
+**Tools:** `JavaScript` `DOM APIs` `Manifest V3` `Chrome Storage API` `Service Workers`
+
+Microsoft Edge Store-approved extension that automates NPTEL attendance form filling, cutting repetitive input by over 90%. Uses ARIA role targeting, event simulation, and Manifest V3 with synchronized cross-device autofill preferences.
+
+---
+
+### National Board of Accreditation App
+**Links:** [GitHub](https://github.com/prakash-atul/nba) | [Live](https://nba.wily.in)  
+**Tools:** `React` `PHP` `MySQL` `AWS EC2` `AWS S3` `Nginx` `RBAC`
+
+Web-based accreditation management system streamlining document handling, role-based access, and institutional workflows for Admin, HOD, Faculty, and Staff roles.
+
+---
+
+### Pharmacy Management System
+**Links:** [GitHub](https://github.com/MET4L-DS/minipharma) | [Live](https://minipharma.netlify.app)  
+**Tools:** `React` `Django REST Framework` `MySQL` `shadcn/ui` `Tailwind CSS` `Zod` `JWT`
+
+Led a team of 8 to build a full-stack pharmacy ERP — inventory management, billing, batch tracking, prescriptions, and GST/HSN support with role-based authentication and an analytics dashboard.
 
 ## Education
 
-* 🎓 MCA – Tezpur University (2024–2026)
-* 📜 CS50 Python – Harvard University
-* 📜 CS50 SQL – Harvard University
-* 🎓 BA (Education & Psychology) – IGNOU
+### Master of Computer Applications
+**Tezpur University** · Assam, India · 2024–2026
+
+### BA in English, Education & Psychology
+**IGNOU** · New Delhi, India · 2020–2023
+
+## Certifications
+
+- [Next.js App Router Fundamentals](https://nextjs.org/learn/certificate?course=dashboard-app&user=161298&certId=dashboard-app-161298-1777030710502) — Vercel, April 2026
+- [B1 English for Developers](https://www.freecodecamp.org/certification/prakash-atul/b1-english-for-developers) — freeCodeCamp, April 2026
+- [Complete Guide to Redis](https://www.educative.io/verify-certificate/UXAO2YW8ZG) — Educative, April 2026
+- [Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/ebfccb8fe585) — HackerRank, October 2025
+- [EA Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_69ba8004b36700ae674636db_1773840786069_completion_certificate.pdf) — Electronic Arts / Forage, March 2026
+- [REST API (Intermediate)](https://www.hackerrank.com/certificates/7354f9c65dc0) — HackerRank, September 2025
+- [CS50's Databases with SQL](https://certificates.cs50.io/df3de021-756b-4e28-be3a-a85b6e2cf909.pdf) — Harvard University, November 2023
+- [CS50's Programming with Python](https://certificates.cs50.io/93c5e14c-f284-4f53-be52-cfbfe838275f.pdf) — Harvard University, November 2023
 
 ---
 
-## Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/prakash-atul
-* 💻 GitHub: https://github.com/prakash-atul
-* 🌍 Portfolio: https://portfolio.wily.in
-
----
-
-⭐ *Always building. Always learning.*
+*Languages: English & Hindi — Professional working proficiency*
