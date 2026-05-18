@@ -2,7 +2,7 @@
 
 > I build things — mostly software. Sometimes for fun, often for people who'd rather not click more than once.
 
-Assam, India &nbsp;·&nbsp; [atul.prakash.work@email.com](mailto:atul.prakash.work@email.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prakash-atul) &nbsp;·&nbsp; [GitHub](https://github.com/prakash-atul) &nbsp;·&nbsp; [Portfolio](https://portfolio.wily.in)
+Assam, India &nbsp;·&nbsp; [atul.prakash.work@gmail.com](mailto:atul.prakash.work@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prakash-atul) &nbsp;·&nbsp; [GitHub](https://github.com/prakash-atul) &nbsp;·&nbsp; [Portfolio](https://portfolio.wily.in)
 
 ## About
 
